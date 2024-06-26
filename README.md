@@ -1,5 +1,5 @@
-musicplayer
-music player for wap
+MusicPlayer
+
 
 This project contains two applications, frontend and backend. src folder contains code for server side and public folder contains static frontend code.
 
